@@ -1,4 +1,5 @@
-# Scripts of Tribute (SoT)
+#
+Scripts of Tribute
 Implementation of Tales of Tribute card game simulator for AI competition.
 
 ## Tales of Tribute
